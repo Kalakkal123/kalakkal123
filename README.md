@@ -1,4 +1,4 @@
-<img src="carbon.png" alt="Header Banner" width="80%" height="20">
+<img src="carbon.png" alt="Header Banner" width="100%" height="50">
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 <h3 align="center">Crafting the Future, One Idea at a Time.</h3>
 
