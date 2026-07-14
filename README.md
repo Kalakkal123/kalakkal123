@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalakkal123&label=Profile%20views&color=0e75b6&style=flat" alt="kalakkal123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalakkal123" alt="kalakkal123" /></a> </p>
-
 - 🌱 I’m currently learning **Blender**
 
-- 💬 Ask me about **Curious? Just ask!**
+- 💬 Ask me about Anything**
 
 - 📫 How to reach me **kalakkalkarti6838@gmail.com**
 
-- ⚡ Fun fact **Learn a little, smile a lot.**
+- ⚡ Fun fact, **Learn a little, smile a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
