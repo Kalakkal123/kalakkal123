@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blender**
 
-- 💬 Ask me about Anything**
+- 💬 Ask me about Anything
 
 - 📫 How to reach me **kalakkalkarti6838@gmail.com**
 
