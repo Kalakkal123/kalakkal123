@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 <h3 align="center">Crafting the Future, One Idea at a Time.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalakkal123&label=Profile%20views&color=0e75b6&style=flat" alt="kalakkal123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalakkalx&label=Profile%20views&color=0e75b6&style=flat" alt="kalakkalx" /> </p>
 
 - 🌱 I’m currently learning **Blender**
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalakkal123&show_icons=true&locale=en&layout=compact" alt="kalakkal123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalakkal123&show_icons=true&locale=en" alt="kalakkal123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalakkalx&show_icons=true&locale=en" alt="kalakkalx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalakkal123&" alt="kalakkal123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalakkalx&" alt="kalakkalx" /></p>
